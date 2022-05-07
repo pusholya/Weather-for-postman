@@ -1,0 +1,18 @@
+[
+	{
+	    "Latitude" : 48.864716,
+		"Longitude" : 2.349014,
+		"Location" : "Paris",
+		"Location_error" : "Neverland",
+		"API key" : "74d63c31b7da9d02825336f2179ebdf3",
+		"API key error" : "74d63c31b7da9d02825336f2179ebdf3h"
+	},
+	{
+		"Latitude" : 37.39,
+		"Longitude" : -122.08,
+		"Location" : "Minsk",
+		"Location_error" : "Anyland",
+		"API key" : "74d63c31b7da9d02825336f2179ebdf3",
+		"API key error" : "74d63c31b7da9d02825336f2179ebdf3h"
+	}
+]
